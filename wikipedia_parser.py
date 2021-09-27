@@ -28,9 +28,9 @@ def list_parser(title):
     for item in item_progress:
         item_progress.set_description(f"Processing {item}")
         try:
-            item_list.append(wikipedia.page(item).summary.strip() + "\n\n")
+            item_list.append(wikipedia.page(item).summary.strip() + "\n")
         except:
-            item_list.append(str(item).strip() + "\n\n")
+            item_list.append(str(item).strip() + "\n")
     return item_list
 
 
@@ -94,8 +94,8 @@ if __name__ == '__main__':
     list_of_wikipedia_entries = [
         ("Liste von Religionen und Weltanschauungen", WikipediaType.List,
          "Religionen_Liste"),
-        ("Liste von Religionen und Weltanschauungen", WikipediaType.Article,
-         "Religionen"),
+        # ("Liste von Religionen und Weltanschauungen", WikipediaType.Article,
+        # "Religionen"),
         ("Liste von Theologen", WikipediaType.List, "Theologen_Liste"),
         ("Liste von Theologen", WikipediaType.Article, "Theologen"),
         ("Geschichte Deutschlands", WikipediaType.Article, "Geschichte")]

@@ -1,9 +1,5 @@
 Liste von Theologen und Theologinnen:
-
-
 == Christlich ==
-
-
 === A ===
 Johannes Aal (um 1500 – 1551), römisch-katholisch, CH
 Willem Jan Aalders (1870–1945), evangelisch-reformiert, NL
@@ -51,8 +47,6 @@ Aurelius von Karthago († um 430)
 Christina Aus der Au Heymann (* 1966), evangelisch-reformiert, CH
 Gustaf Aulén (1879–1977), evangelisch-lutherisch, S
 Petrowitsch Awwakum (1620–1682), orthodox, Altgläubiger, RUS
-
-
 === B ===
 Hans-Rudolf Bachmann (* 1950), evangelisch-reformiert, CH
 Johann Friedrich Bachstrom (1686–1742), evangelisch-lutherisch, Pl/D
@@ -180,8 +174,6 @@ Johannes Busch (1905–1956), evangelisch, D
 Wilhelm Busch (1897–1966), evangelisch, D
 Horace Bushnell (1802–1876), kongregationalistisch, USA
 Alfred Buß (* 1947), evangelisch, D
-
-
 === C ===
 Friedrich Ulrich Calixt (1622–1701), evangelisch, D
 Georg Calixt (1586–1656), lutherisch, D
@@ -212,8 +204,6 @@ Caspar Cruciger (1504–1548), lutherisch, D, Reformator
 Oscar Cullmann (1902–1999), evangelisch, F, Neutestamentler
 Cyprian von Karthago (um 200/10 – 258)
 Ernst Salomon Cyprian (1673–1745), lutherisch, D
-
-
 === D ===
 Jacob Dahl (1878–1944), evangelisch-lutherisch, Färöer
 Corinna Dahlgrün (* 1957), evangelisch-lutherisch, D
@@ -252,8 +242,6 @@ Eugen Drewermann (* 1940), römisch-katholisch, D
 Bernhard Dräsecke (1774–1849), evangelisch, D
 Martin Dutzmann (* 1956), evangelisch, D
 Horst Dzubba (1913–1978), evangelisch, D
-
-
 === E ===
 Gerhard Ebeling (1912–2001), evangelisch, D
 Johann Eberlin von Günzburg (um 1470 – 1533), D
@@ -283,8 +271,6 @@ Eusebius von Caesarea (260/264–337/340), Kirchenvater
 Eusebios von Emesa (vor 341–360)
 Eusebius von Nikomedia († 341)
 Adolf Exeler (1926–1983), römisch-katholisch, Pastoraltheologe, D
-
-
 === F ===
 Heinz-Josef Fabry (* 1944), römisch-katholisch, D, Alttestamentler
 Tobias Faix (* 1969), evangelisch, D, Missionswissenschaftler
@@ -306,6 +292,7 @@ Johannes-Baptist Freyer (* 1953), römisch-katholisch, D
 Hellmuth Frey (1901–1982), evangelisch, D, Alttestamentler
 Gerhard Friedrich (1908–1986), evangelisch-lutherisch, D
 Johannes Friedrich (* 1948), evangelisch-lutherisch, D
+Martin Friedrich (* 1957), evangelisch, D
 Heinrich Fries (1911–1998) D, römisch-katholischer Ökumeniker
 Karl Friedrich August Fritzsche (1801–1846), evangelisch, D
 Otto Fridolin Fritzsche (1812–1896), evangelisch, D
@@ -316,8 +303,6 @@ Arnold Fruchtenbaum (* 1943), evangelikal, USA
 Emil Fuchs (1874–1971), evangelisch-lutherisch, D
 Ernst Fuchs (1903–1983), evangelisch, D
 Christian Führer (1943–2014), evangelisch-lutherisch, D
-
-
 === G ===
 Ulrich Gäbler (* 1941), evangelisch-lutherisch, Österreicher
 Lucius Gabriel (1597–1663), evangelisch-reformierter Pfarrer und Bibelübersetzer ins Surselvische, CH
@@ -367,8 +352,6 @@ Hermann Gunkel (1862–1932), evangelisch-lutherisch, D, Alttestamentler
 Antonius Hermanus Josephus Gunneweg (1922–1990), evangelisch-reformiert, NL, Alttestamentler
 Donald Guthrie (1916–1992), baptistisch, GB, Neutestamentler
 Gustavo Gutiérrez (* 1928), römisch-katholisch, Perú, Befreiungstheologe
-
-
 === H ===
 Ernst Haag (1932–2017), D
 Herbert Haag (1915–2001), römisch-katholisch, D/CH, Bibelwissenschaftler
@@ -440,8 +423,6 @@ Karl Bernhard Hundeshagen (1810–1872), evangelisch-reformiert, D
 Jan Hus (1370(?)–1415), Reformator, CZ
 Leonhard Hutter (1563–1616), evangelisch-lutherisch, D
 Bill Hybels (* 1951), evangelikal, USA
-
-
 === I ===
 Ignatius von Antiochien († nach 110), Kirchenvater
 Ignatius von Loyola (1491–1556), römisch-katholisch
@@ -453,8 +434,6 @@ Irenäus von Lyon (um 135 – um 200), Kirchenvater, Kirchenlehrer, Dogmatiker
 Erwin Iserloh (1915–1996), römisch-katholisch, Kirchengeschichtler, D
 Ivo von Chartres (um 1040 – 1115), Kirchenrechtler, F
 Hans Joachim Iwand (1899–1960), evangelisch, D, syst. Theologe
-
-
 === J ===
 Günter Jacob (1906–1993), evangelisch, D
 Gerhard Jacobi (1891–1971), evangelisch-lutherisch, D, Bischof
@@ -479,8 +458,6 @@ Eberhard Jüngel (* 1934), evangelisch, D
 Frank Otfried July (* 1954), evangelisch, D
 Josef Andreas Jungmann (1889–1975), römisch-katholisch, A, Liturgiewissenschaftler
 Justin der Märtyrer (um 133 – 163/67), Kirchenvater
-
-
 === K ===
 Julius Kaftan (1848–1926), lutherisch, D
 Christoph Kähler (* 1944), lutherisch, D
@@ -492,6 +469,7 @@ Friedrich Wilhelm Kantzenbach (1932–2013), lutherisch, D
 Walter Kasper (* 1933), römisch-katholisch, D, Dogmatiker
 Katharina von Siena (um 1347 – 1380), Kirchenlehrerin
 Ferdinand Kattenbusch (1851–1935), evangelisch, D
+Medard Kehl SJ (1942–2021), römisch-katholisch, D
 Timothy Keller (* 1950), presbyterianisch, USA, praktischer Theologe und Gemeindegründer
 Josef Kentenich (1885–1968), römisch-katholisch, D
 Cyprian Kern (1899–1960) orthodox, FR
@@ -502,7 +480,7 @@ Wolfram Kistner (1923–2006), evangelisch-lutherisch
 Rudolf Kittel (1853–1929), evangelisch, D, Alttestamentler
 Helge Klassohn (* 1944), evangelisch, D
 Walter Klaiber (* 1940), ev.-methodistisch, D
-Hans-Josef Klauck (* 1946), römisch-katholisch, D, Neutestamentler
+Hans-Josef Klauck OFM (* 1946), römisch-katholisch, D, Neutestamentler
 Heinrich Klee (1800–1840), römisch-katholisch, D
 Günter Klein (1928–2015), evangelisch, D
 Konrad Klek (* 1960), evangelisch, D
@@ -511,6 +489,7 @@ Herbert H. Klement (* 1949), evangelisch, D, Alttestamentler
 Johann Friedrich Kleuker (1749–1827), evangelisch, D
 Josef Kleutgen (1811–1883), römisch-katholisch, D
 Paul-Gerhard Klumbies (* 1957), evangelisch, D
+Peter Knauer SJ (* 1935), römisch-katholisch, D
 Hans-Christian Knuth (* 1940), lutherisch, D
 Manfred Kock (* 1936), evangelisch, D
 Walter Kreck (1908–2002), evangelisch, D
@@ -535,8 +514,6 @@ Hermann Kutter (1863–1931), evangelisch, CH
 Otto Kuss (1905–1991), römisch-katholisch, D
 Abraham Kuyper (1837–1920), reformiert, NL, Dogmatiker, niederl. Ministerpräsident
 Kyrill von Jerusalem (um 315 – 386), Kirchenvater
-
-
 === L ===
 Lactantius (um 250–320)
 Lars Levi Læstadius (1800–1861), S
@@ -575,8 +552,6 @@ Gerd Lüdemann (* 1946), evangelisch, D
 Hermann Lüdemann (1842–1933), evangelisch, D, Systematischer Theologe
 Liborius Olaf Lumma (* 1973), römisch-katholisch, A, Liturgiewissenschaftler
 Martin Luther (1483–1546), römisch-katholisch → lutherisch, D, Reformator
-
-
 === M ===
 Gordon MacDonald, evangelikal, USA
 Gerhard Maier (* 1937), evangelisch-lutherisch, D, Landesbischof
@@ -630,8 +605,6 @@ Alois Musil (1868–1944), römisch-katholisch, CS
 Friedrich Myconius (1490–1546), D
 Oswald Myconius (1488–1552), evangelisch-reformiert, CH, Reformator
 Hubertus Mynarek (* 1929), D, Theologe und Kirchenkritiker
-
-
 === N ===
 Sabine Antje Naegeli (* 1948), evangelisch-reformiert, CH
 Eberhard Natho (* 1932), evangelisch, D, Kirchenpräsident
@@ -655,8 +628,6 @@ Gottfried Noth (1905–1971), evangelisch-lutherisch, D, Landesbischof
 Martin Noth (1902–1968), evangelisch-lutherisch, D, Alttestamentler
 Notker der Deutsche oder Notker Labeo (950–1022), D
 Henri Nouwen (1932–1996), römisch-katholisch, NL/USA/Can, Praktischer Theologe
-
-
 === O ===
 Johann Friedrich Oberlin (1740–1826), evangelisch-lutherisch, D, Sozialreformer
 Heiko Augustinus Oberman (1930–2001), evangelisch-reformiert, NL
@@ -676,8 +647,6 @@ Lucas Osiander der Ältere (1534–1604), evangelisch-lutherisch, D
 Ossius von Córdoba (um 257 – 357/58)
 Rudolf Otto (1869–1937), evangelisch-lutherisch, D, Religionswissenschaftler
 Franz Overbeck (1837–1905), evangelisch, D, Neutestamentler
-
-
 === P ===
 James Innell Packer, anglikanisch, CDN
 Ian Paisley (1926–2014), presbyterianisch, NI, Politiker
@@ -714,12 +683,8 @@ Polykarp von Smyrna (um 69 – 155), Kirchenvater
 Anton Praetorius (1560–1613)
 Thomas Pröpper (1941–2015)
 Erich Przywara (1889–1972), römisch-katholisch, D
-
-
 === Q ===
 Johann Andreas Quenstedt (1617–1688), lutherisch, D
-
-
 === R ===
 Erasmus von Rotterdam (1466–1536), Vorläufer der Reformation
 Gerhard von Rad (1901–1971), evangelisch, D, Alttestamentler
@@ -762,8 +727,6 @@ Julius Rupp (1809–1884), freireligiös, D
 Letty Russell (1929–2007), evangelisch, USA
 Thomas Ruster (* 1955), römisch-katholisch, D, Dogmatiker
 Carl Rottermund (1847–1925), lutherisch (Kurland, Livland, Magdeburg) D
-
-
 === S ===
 Johann Michael Sailer (1751–1832), römisch-katholisch
 Georg Heinrich Sappuhn (1659–1721), evangelisch-lutherisch, D/SK
@@ -859,8 +822,6 @@ Magnus Striet (* 1964), römisch-katholisch, D, Fundamentaltheologe
 Viktorin Strigel (1514–1569), evangelisch, D
 Josip Juraj Strossmayer (1815–1905), römisch-katholisch, Kroatien
 Peter Stuhlmacher (* 1932), evangelisch, D, Neutestamentler
-
-
 === T ===
 Johannes Tauler (1300–1361), Mystiker, D
 Hans Tausen (1494–1561), evangelisch-lutherisch, DK, Reformator
@@ -893,8 +854,6 @@ Ernst Troeltsch (1865–1923), evangelisch, D
 Nelson Wesley Trout (1920–1996), evangelisch, US
 Primož Trubar (dt. Primus Truber) (1508–1586) evangelisch, D, Reformator von Slowenien
 Valentin Tschudi (1499–1555) römisch-katholisch → evangelisch-reformiert, CH, Reformator von Glarus
-
-
 === U ===
 Gerhard Uhlhorn (1826–1901), evangelisch-lutherisch, D
 Carl Ullmann (1796–1865), evangelisch, D
@@ -903,8 +862,6 @@ Otto Umfrid (1857–1920), lutherisch, D
 Georg Untergaßmair (* 1941), römisch-katholisch, D
 Johann August Urlsperger (1728–1806), evangelisch, D
 Zacharias Ursinus (1534–1583), evangelisch, D
-
-
 === V ===
 Hansjürgen Verweyen (* 1936), römisch-katholisch, D, Fundamentaltheologe
 Dieter Vieweger (* 1958), lutherisch, D, Alttestamentler
@@ -915,8 +872,6 @@ Heinrich Vogel (1902–1989), evangelisch, D
 Miroslav Volf (* 1956), anglikanisch, HR, USA
 Hermann Volk (1903–1988), römisch-katholisch, D
 Herbert Vorgrimler (1929–2014), römisch-katholisch
-
-
 === W ===
 Marie-Theres Wacker (* 1952), römisch-katholisch, D, Altes Testament und theologische Frauenforschung
 Otto Wahl (1932–2020), römisch-katholisch, D, Alttestamentler
@@ -952,14 +907,10 @@ Johann Ludwig Würffel (1678–1719) evangelisch-lutherisch, D
 Theophil Wurm (1868–1953), evangelisch-lutherisch, D
 John Wyclif (um 1330 – 1384), römisch-katholisch, Theologe, Philosoph und Kirchenreformer, GB
 Thomas Wyttenbach (um 1472 – 1526), römisch-katholisch → evangelisch-reformiert, Reformator der Stadt Biel, CH
-
-
 === Y ===
 Mike Yaconelli (1942–2003), evangelikal, USA
 Edwin M. Yamauchi (* 1937), evangelikal, USA, Kirchenhistoriker
 Yvonius, Vor-Reformation
-
-
 === Z ===
 Theodor Zahn (1838–1933), evangelisch-lutherisch, D
 Heinz Zahrnt (1915–2003), evangelisch-lutherisch, D
@@ -977,11 +928,7 @@ Thomas Zippert (* 1961), evangelisch-lutherisch, D
 Louis-Ferdinand von Zobeltitz (* 1945), evangelisch, D
 Paul Zulehner (* 1939), römisch-katholisch, A, Religionssoziologe
 Huldrych Zwingli (1484–1531), römisch-katholisch → evangelisch-reformiert, CH, Reformator
-
-
 == Jüdisch ==
-
-
 === A ===
 Nathan Adler (1741–1800), D, Rabbiner
 Nathan Marcus Adler (1803–1890), D/E, Rabbiner
@@ -989,8 +936,6 @@ Rabbi Akiba ben Josef (50–135), Palästina, Rabbi
 Schlomo Alkabez (1505–1576), Gr/Palästina, Rabbiner und Kabbalist
 Adolf Altmann (1879–1944), H/D, Rabbiner
 Zwi Hirsch Aschkenasi (1656–1718), Cz/UA, Rabbiner
-
-
 === B ===
 Leo Baeck (1873–1956), D/GB, Rabbiner
 Samuel Baeck (1834–1912), Mähren/D, Rabbiner
@@ -1006,38 +951,26 @@ Philipp Bloch (1841–1923), D, Historiker und Reformrabbiner
 Shmuley Boteach, USA, Rabbiner
 Jakob Brüll (1812–1889), Cz, Rabbiner
 Martin Buber (1878–1965), A/UA/D/Isr, Religionsphilosoph und Bibelübersetzer
-
-
 === C ===
 Zwi Hirsch Chajes (1805–1855), UA, Rabbiner
 Aaron Chorin (1766–1844), Cz/Rus, Rabbiner
 Moses Cordovero (1522–1570), Palästina, Rabbi Mosche ben Jakov Cordovero "RaMaK", Kabbalist
-
-
 === D ===
 Lelio Della Torre (1805–1871), I, Rabbiner und Theologieprofessor
 Riccardo Di Segni (* 1949), I, Oberrabbiner
-
-
 === E ===
 Jacob Emden (1697–1776), D, Rabbiner
 Jonathan Eybeschütz (1690–1764), Pl/D, Rabbiner
-
-
 === F ===
 Jakob Jehoschua Falk (1680–1756), Pl/D, Rabbiner
 David Flusser (1917–2000), D/Il, Religionswissenschaftler
 Bärmann Fränkel (1645–1708), A/D, Rabbiner
 Mose ben Abraham Fränkel (1739–1812), D, Rabbiner
 Zacharias Frankel (1801–1875), Cz/D, Rabbiner
-
-
 === G ===
 Gamaliel I. (9–50), Palästina, Rabbi
 Louis Ginzberg (1873–1953), Lit/USA, jüdischer Theologieprofessor
 Nahum Norbert Glatzer (1903–1990), UA/USA, Rabbiner
-
-
 === H ===
 Jehuda ha-Nasi (um 165 – 217), Palästina, Rabbi
 Abraham Jehoschua Heschel (1748–1825), Pl/UA, chassidischer Rabbiner und Zaddik
@@ -1055,12 +988,8 @@ Samuel Horowitz (1726–1778), UA/Cz, Rabbiner und Kabbalist
 Shabbethai Horowitz (1590–1660), UA, Rabbiner
 Shabbethai Sheftel Horowitz (1565–1619), Cz, Rabbiner und Kabbalist
 Aaron Hyman (1863–1937), By, Rabbiner
-
-
 === J ===
 Adolf Jellinek (1820–1893), Cz/A, Rabbiner
-
-
 === K ===
 Zwi Hirsch Kalischer (1795–1874), Pl, Rabbiner
 Josef Karo (1488–1575), Palästina, Rabbi und Kabbalist
@@ -1068,40 +997,26 @@ Zwi Hirsch Koidanower (1655–1712), D, Rabbiner
 Abraham Isaak Kook (1865–1935), Rus/Palästina, Rabbiner
 Nachman Krochmal (1785–1840), UA, Religionsphilosoph
 Daniel Krochmalnik (* 1956), D, Philosoph und Religionspädagoge
-
-
 === L ===
 Pinchas Lapide (1922–1997), A/D, Religionswissenschaftler
 Moses Löb Bloch (1815–1909), H, Rabbiner und Religionspädagoge
 Isaak Luria (1534–1572), Palästina, Rabbiner und Kabbalist
-
-
 === M ===
 Maimonides (1135–1204), GB/Aegypten, Rabbi Mosche ben Maimon "RaMBaM", Bibelexeget und Philosoph
 Isaak Mannheimer (1793–1865), Dk/A, Rabbiner
 Moses Mendelssohn (1729–1786), D, Bibelübersetzer und Philosoph
-
-
 === N ===
 Rabbi Nachman (1772–1810), Rus, Rabbiner
 Nachmanides (1194–1270), E/Palästina, Rabbi Mosche ben Nachman "RaMBaN"
 Jacob Neusner (1932–2016), USA, Religionswissenschaftler
-
-
 === O ===
 David Oppenheimer (Rabbiner) (1664–1736), D/Cz, Rabbiner
-
-
 === P ===
 Riccardo Reuven Pacifici (1904–1943), I, Rabbiner
-
-
 === R ===
 Salomo Juda Rapoport (1790–1867), UA/Cz, Oberrabbiner
 Raschi (1040–1105), F/D, Rabbi Schlomo ben Izchak "RaSCHi", bedeutendster Bibelexeget
 Franz Rosenzweig (1886–1929), D, Religionsphilosoph und Bibelübersetzer
-
-
 === S ===
 Michael Sachs (1808–1864), D, Rabbiner
 Schneur Salman (1745–1812), By/UA, Rabbiner
@@ -1114,21 +1029,13 @@ Awraham Schmuel Binjamin Sofer (1815–1871), Sk, Rabbiner
 Moses Sofer (1762–1839), D/Sk, orthodoxer Rabbiner
 Joseph Chaim Sonnenfeld (1848–1932), H/Isr, Rabbiner
 Adin Steinsaltz (1937–2020), Il, Rabbiner
-
-
 === T ===
 Elio Toaff (1915–2015), I, Grossrabiner
-
-
 === V ===
 Geza Vermes (1924–2013), H/GB, ehemaliger römisch-katholischer Priester und Theologieprofessor
 Dow Bär von Mesritsch (1710–1772), UA, Rabbiner
-
-
 === W ===
 Samson Wertheimer (1658–1724), D/A, Rabbiner
-
-
 == Islamisch ==
 Abu al-Hasan al-Māwardī
 Abu Hamid Muhammad ibn Muhammad Al-Ghazali
@@ -1144,30 +1051,8 @@ Rabeya Müller
 Nuur ud-Din (Ahmadiyya)
 Bülent Ucar
 Omar Hamdan
-
-
 == Bahai ==
 Mirza Abu’l-Fadl
 William S. Hatcher
 Nader Saiedi
 Udo Schaefer
-
-
-== Siehe auch ==
-Hauptpastoren
-Liste deutschsprachiger christlicher Theologen
-Liste der Neutestamentler der Universität Göttingen
-Liste englischsprachiger Theologen
-Liste Schweizer Theologen
-Anrede
-Liste religiöser Amts- und Funktionsbezeichnungen
-Kategorie:Theologe
-
-
-== Literatur ==
-Wilfried Härle, Harald Wagner: Theologenlexikon. Von den Kirchenvätern bis zur Gegenwart. 2. Auflage. München 1994.
-Biographisch-Bibliographisches Kirchenlexikon (BBKL). 1975 ff. (online).
-
-
-== Weblinks ==
-Texte einzelner Theologen – UB Freiburg
